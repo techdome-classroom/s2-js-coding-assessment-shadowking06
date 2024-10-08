@@ -21,4 +21,4 @@ function isValid(s) {
     return stack.length === 0;
   }
   
-  module.exports = { isValid };
+  mododule.exports = { isValid };
